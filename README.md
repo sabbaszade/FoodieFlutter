@@ -1,16 +1,42 @@
-# sanazmeals
+## 🍽️ Meal Planner App
 
-A new Flutter application.
+A simple Flutter app that helps users explore meals, apply filters, and manage their favorite recipes.
 
-## Getting Started
+## ✨ Features
 
-This project is a starting point for a Flutter application.
+Browse meals by category (Breakfast, Italian, Asian, Quick & Easy, etc.)
 
-A few resources to get you started if this is your first Flutter project:
+Mark meals as favorites and view them in a separate section
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+Apply dietary filters:
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Gluten-free
+
+Lactose-free
+
+Vegetarian
+
+Vegan
+
+Clean and simple UI with colorful categories
+
+## 🛠️ Tech Stack
+
+Flutter (UI framework)
+
+Dart (programming language)
+
+
+## 📸 Screenshots
+
+<p align="center">
+  <img src="./screenshots/Screenshot_1585980293.png" alt="Categories" width="250"/>
+  <img src="./screenshots/Screenshot_1585980530.png" alt="Favorites" width="250"/>
+  <img src="./screenshots/Screenshot_1585980550.png" alt="Filters" width="250"/>
+</p>
+
+<p align="center">
+  <img src="./screenshots/Screenshot_1585980396.png" alt="Categories" width="250"/>
+  <img src="./screenshots/Screenshot_1585980445.png" alt="Favorites" width="250"/>
+  <img src="./screenshots/Screenshot_1585980542.png" alt="Filters" width="250"/>
+</p>
